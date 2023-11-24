@@ -1,6 +1,4 @@
-#include <stdio.h>
-#include <conio.h>
-#include <math.h>
+#include <bits/mathc++.h>
 int tinhgiaithua(int n)
 {
   int giai_thua = 1;
