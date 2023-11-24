@@ -23,3 +23,4 @@ void main()
   printf("Sin(%d)= %f", x, s);
   _getch();
 }
+//sửa đây syawr kldlasjkdjaskljsdasjkhdjkasjkdhasi
