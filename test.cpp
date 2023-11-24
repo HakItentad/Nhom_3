@@ -5,7 +5,7 @@ int tinhgiaithua(int n)
   for (int i = 1; i <= n; i++)
   {
     giai_thua = giai_thua * i;
-  }
+  } ?? dsjkahdjkshajkdhjkashjkdhsajkhdjkhsajkhdjksahjkhd
   return giai_thua;
 }
 void main()
