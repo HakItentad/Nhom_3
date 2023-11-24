@@ -12,7 +12,7 @@ void main()
 {
   int n, x;
   double s = 0;
-  printf("Nhap n ");
+  printf("Nhap n ");...
   scanf_s("%d", &n);
   printf("Nhap x ");
   scanf_s("%d", &x);
